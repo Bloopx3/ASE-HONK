@@ -1,0 +1,4 @@
+#Fri Mar 16 11:33:46 SGT 2018
+base.0=C\:\\Users\\Bryan Boey\\Desktop\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\76
+path.0=classes.dex
+renamed.0=classes.dex
