@@ -1,0 +1,255 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\102cbc5fca5e67320f6c3b2bec82f097\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e9e8efb75d5a0759dbb10045bbb59d55\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\b768f9b2503cd8b9b92446aa4e13f110\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\adac2ff76a2950aa4ab8c9851bce3eb9\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-places:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.2.aar\83e768f3967cb7c97e84c21cb1eeaeaf\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\31b6c12abf81a19aaa7be14231a673db\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\202e14ce16b9b192febcf26505abf73e\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5f92212b1020e59d9ff9543eb9ee889c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\fb21b135bad19a08b43d120c6ecf9943\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\82b2bca95cfefc01d33361833fe2df8a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\472456263dfa77ee219d018b1e74c202\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\f2400b4e035fdb79777fbe4f2e954c86\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\e7f2ecf2ebce41d367e13168359e72a0\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ac4da3bfecef06a03fc0bb012540837d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b7a241609c9d382f0d471fa469d845a4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\fff4198f9601be5acb8d96aac31ceb8b\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:3:5-25
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:1-50:12
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:6:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:9:5-48:19
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\102cbc5fca5e67320f6c3b2bec82f097\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\102cbc5fca5e67320f6c3b2bec82f097\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\b768f9b2503cd8b9b92446aa4e13f110\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\b768f9b2503cd8b9b92446aa4e13f110\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\adac2ff76a2950aa4ab8c9851bce3eb9\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\adac2ff76a2950aa4ab8c9851bce3eb9\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-places:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.2.aar\83e768f3967cb7c97e84c21cb1eeaeaf\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.2.aar\83e768f3967cb7c97e84c21cb1eeaeaf\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\31b6c12abf81a19aaa7be14231a673db\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\31b6c12abf81a19aaa7be14231a673db\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\202e14ce16b9b192febcf26505abf73e\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\202e14ce16b9b192febcf26505abf73e\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5f92212b1020e59d9ff9543eb9ee889c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5f92212b1020e59d9ff9543eb9ee889c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\fb21b135bad19a08b43d120c6ecf9943\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\fb21b135bad19a08b43d120c6ecf9943\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\82b2bca95cfefc01d33361833fe2df8a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\82b2bca95cfefc01d33361833fe2df8a\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\472456263dfa77ee219d018b1e74c202\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\472456263dfa77ee219d018b1e74c202\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\f2400b4e035fdb79777fbe4f2e954c86\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\f2400b4e035fdb79777fbe4f2e954c86\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\e7f2ecf2ebce41d367e13168359e72a0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\e7f2ecf2ebce41d367e13168359e72a0\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ac4da3bfecef06a03fc0bb012540837d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ac4da3bfecef06a03fc0bb012540837d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b7a241609c9d382f0d471fa469d845a4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b7a241609c9d382f0d471fa469d845a4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\fff4198f9601be5acb8d96aac31ceb8b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\fff4198f9601be5acb8d96aac31ceb8b\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:15:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:25:9-27:55
+	android:value
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:27:13-52
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:26:13-58
+activity#bloop.honk.View.MainActivity
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:29:9-39:20
+	android:screenOrientation
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:33:13-49
+	android:label
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:31:13-45
+	android:theme
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:30:13-46
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:34:13-38:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:35:17-69
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:37:17-77
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:37:27-74
+activity#bloop.honk.View.LoginActivity
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:41:9-43:61
+	android:screenOrientation
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:43:13-49
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:42:13-47
+activity#bloop.honk.View.AdminActivity
+ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:44:9-46:61
+	android:screenOrientation
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:46:13-49
+	android:name
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml:45:13-47
+uses-sdk
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\102cbc5fca5e67320f6c3b2bec82f097\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\102cbc5fca5e67320f6c3b2bec82f097\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e9e8efb75d5a0759dbb10045bbb59d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e9e8efb75d5a0759dbb10045bbb59d55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\b768f9b2503cd8b9b92446aa4e13f110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\b768f9b2503cd8b9b92446aa4e13f110\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\adac2ff76a2950aa4ab8c9851bce3eb9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\adac2ff76a2950aa4ab8c9851bce3eb9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.2.aar\83e768f3967cb7c97e84c21cb1eeaeaf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-places-11.0.2.aar\83e768f3967cb7c97e84c21cb1eeaeaf\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\31b6c12abf81a19aaa7be14231a673db\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-location-11.0.2.aar\31b6c12abf81a19aaa7be14231a673db\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\202e14ce16b9b192febcf26505abf73e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.0.2.aar\202e14ce16b9b192febcf26505abf73e\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5f92212b1020e59d9ff9543eb9ee889c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5f92212b1020e59d9ff9543eb9ee889c\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\fb21b135bad19a08b43d120c6ecf9943\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\fb21b135bad19a08b43d120c6ecf9943\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\82b2bca95cfefc01d33361833fe2df8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\82b2bca95cfefc01d33361833fe2df8a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\472456263dfa77ee219d018b1e74c202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\472456263dfa77ee219d018b1e74c202\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\f2400b4e035fdb79777fbe4f2e954c86\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\f2400b4e035fdb79777fbe4f2e954c86\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\e7f2ecf2ebce41d367e13168359e72a0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\e7f2ecf2ebce41d367e13168359e72a0\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ac4da3bfecef06a03fc0bb012540837d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ac4da3bfecef06a03fc0bb012540837d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b7a241609c9d382f0d471fa469d845a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b7a241609c9d382f0d471fa469d845a4\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\fff4198f9601be5acb8d96aac31ceb8b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\fff4198f9601be5acb8d96aac31ceb8b\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Bryan Boey\Desktop\Client (Android)\Honk (unzipped source code)\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\102cbc5fca5e67320f6c3b2bec82f097\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.0-alpha1.aar\102cbc5fca5e67320f6c3b2bec82f097\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e9e8efb75d5a0759dbb10045bbb59d55\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.0-alpha1.aar\e9e8efb75d5a0759dbb10045bbb59d55\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\b768f9b2503cd8b9b92446aa4e13f110\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.0-alpha1.aar\b768f9b2503cd8b9b92446aa4e13f110\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\adac2ff76a2950aa4ab8c9851bce3eb9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\transition-26.0.0-alpha1.aar\adac2ff76a2950aa4ab8c9851bce3eb9\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5f92212b1020e59d9ff9543eb9ee889c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.0-alpha1.aar\5f92212b1020e59d9ff9543eb9ee889c\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\82b2bca95cfefc01d33361833fe2df8a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.0-alpha1.aar\82b2bca95cfefc01d33361833fe2df8a\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\472456263dfa77ee219d018b1e74c202\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.0-alpha1.aar\472456263dfa77ee219d018b1e74c202\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\f2400b4e035fdb79777fbe4f2e954c86\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.0-alpha1.aar\f2400b4e035fdb79777fbe4f2e954c86\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\e7f2ecf2ebce41d367e13168359e72a0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.0-alpha1.aar\e7f2ecf2ebce41d367e13168359e72a0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ac4da3bfecef06a03fc0bb012540837d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.0-alpha1.aar\ac4da3bfecef06a03fc0bb012540837d\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b7a241609c9d382f0d471fa469d845a4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.0-alpha1.aar\b7a241609c9d382f0d471fa469d845a4\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\fff4198f9601be5acb8d96aac31ceb8b\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.0-alpha1.aar\fff4198f9601be5acb8d96aac31ceb8b\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\design-26.0.0-alpha1.aar\aaa111adb0ae5d67bbcf15fab32f45d3\AndroidManifest.xml:26:9-47
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.0.2.aar\b30ef1fd62082c43feec28e356ec0cb1\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-base-11.0.2.aar\0545f33c8fc33d57e9ed5dd7a3ed98f2\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.2] C:\Users\Bryan Boey\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.0.2.aar\178348750ae064b6ba18266a97129da2\AndroidManifest.xml:20:20-65

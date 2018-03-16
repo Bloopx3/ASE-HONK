@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_header.xml",
+        "source": "E:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\src\\main\\res\\menu\\menu_header.xml"
+    },
+    {
+        "merged": "E:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_main_drawer.xml",
+        "source": "E:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    }
+]
