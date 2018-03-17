@@ -1,4 +1,0 @@
-#Fri Feb 09 15:23:52 SGT 2018
-base.0=E\:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=E\:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

@@ -50,7 +50,7 @@ public class getPlacesController implements Filterable {
                 if (constraint != null) {
                     // Query the autocomplete API for the (constraint) search string.
                     ArrayList<MapPlace> mResultList = getAutocomplete(constraint);
-                    //mAdapter.setmResultList(mResultList);
+                    mAdapter.setmResultList(mResultList);
                     if (mResultList != null) {
                         // The API successfully returned results.
                         results.values = mResultList;

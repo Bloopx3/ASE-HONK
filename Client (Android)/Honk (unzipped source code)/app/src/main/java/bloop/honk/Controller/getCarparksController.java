@@ -48,7 +48,7 @@ public class getCarparksController implements Filterable {
                 // Skip the autocomplete query if no constraints are given.
                 if (constraint != null) {
                     // Query the autocomplete API for the (constraint) search string.
-                    ArrayList<CarPark> mResultList = getAutocomplete(constraint);
+                    ArrayList<MapPlace> mResultList = getAutocomplete(constraint);
                     mAdapter.setmResultList(mResultList);
                     if (mResultList != null) {
                         // The API successfully returned results.
@@ -73,7 +73,7 @@ public class getCarparksController implements Filterable {
         return filter;
     }
 
-    private ArrayList<CarPark> getAutocomplete(CharSequence constraint) {
+    private ArrayList<MapPlace> getAutocomplete(CharSequence constraint) {
         return null;
 
     }

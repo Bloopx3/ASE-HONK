@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\coding\\honk\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\Don\\Desktop\\ASE-HONK\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Clevo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\d021de29fd5b5fa7b3574e49de4f6d17\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Don\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\ac03730563b7145a3f9ad80d78a044f6\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -12,20 +12,24 @@
                         "endColumns": "65",
                         "endOffsets": "116"
                     }
-                }
-            ]
-        },
-        {
-            "outputFile": "C:\\Users\\Bryan Boey\\Desktop\\Client (Android)\\Honk (unzipped source code)\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-            "map": [
+                },
                 {
-                    "source": "C:\\Users\\Bryan Boey\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.0-alpha1.aar\\102cbc5fca5e67320f6c3b2bec82f097\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Don\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\bccb6d495ac5d50c2e1c18b5e6a60c3e\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
                     }
                 }
             ]
