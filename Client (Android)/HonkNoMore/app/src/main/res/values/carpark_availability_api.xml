@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="carpark_api_url">http://datamall2.mytransport.sg/ltaodataservice/CarParkAvailabilityv2</string>
-    <string name="LTA_key">5WoML31xSZWmAOqK49JDKw==</string>
-</resources>
